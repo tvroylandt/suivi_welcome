@@ -1,0 +1,60 @@
+ 
+ /* Tableaux */
+ .table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .table.table-striped td, .table.table-striped th {
+    background-color: transparent;
+  }
+  
+  .table.thread{
+	background-color: #336699;
+  }
+  
+  table{
+    font-family: "Lato";
+		font-size:14px;
+	}
+  
+  /* En-tete */  
+  .title {
+  font-family: "Montserrat";
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #c22e16;
+  text-align: center;
+  width: 60%;
+  position: relative;
+  left:150px;
+  }
+ 
+  /* Titres */   
+
+  h2 {
+  font-family: "Montserrat";
+  font-size: 22px;
+  font-weight: bold;
+  color: #c22e16;
+  }
+  
+	h4 {
+	  font-family: "Montserrat";
+	  font-size: 18px;
+	}
+	
+	blockquote{
+	  font-family: "Roboto Condensed";
+	  font-size: 16px;
+	  font-weight: lighter;
+	}
+
+	
+	/* Corps */
+	body{
+	  font-family: "Lato";
+		font-size:15px;
+	}
+	
